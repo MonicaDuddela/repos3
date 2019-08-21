@@ -8,7 +8,8 @@
 </head>
 <body>
     <script>
-        alert("hello");
+        alert("hellohdhfdh");
+        alert("hii");
     </script>
 </body>
 </html>
